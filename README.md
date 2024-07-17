@@ -14,33 +14,4 @@ CAD Files (3D models & PCB schematics):
 
 CAD (Computer-Aided Design) files include the mechanical and electrical design of rocket subsystems.  The mechanical cad documents are step. or stl. files.  Certain files on the repo are components for Arrow 1, the team's testbed workhorse rocket.  Other cad files are PCB schematics (printed circuit boards) which are models that outline the electrical design of avionic subsystems.
 
-  !
-       !
-       ^
-      / \
-     /___\
-    |=   =|
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-   /|##!##|\
-  / |##!##| \
- /  |##!##|  \
-|  / ^ | ^ \  |
-| /  ( | )  \ |
-|/   ( | )   \|
-    ((   ))
-   ((  :  ))
-   ((  :  ))
-    ((   ))
-     (( ))
-      ( )
-       .
-       .
-       .
+
